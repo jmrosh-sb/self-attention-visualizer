@@ -1,0 +1,10 @@
+/* Visualization.css */
+
+svg path {
+  transition: stroke-width 0.3s;
+}
+
+.token-box:hover {
+  background-color: #f0f0f0;
+}
+
